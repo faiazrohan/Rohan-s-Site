@@ -1,0 +1,15 @@
+
+
+body{background-color:#dadddf;}
+h1{color:#105e62; font-family:sans-serif;}
+h2{color:#105e62;font-family:sans-serif;}
+td{color: #d84c73;font-family:cursive}
+ul{color:#d84c73;font-family: cursive }  
+img{border-radius:30%; }
+hr{
+    border-style: dotted none none none;
+    border-width:5px;
+    border-color:494949; 
+    width:20%
+        
+}
